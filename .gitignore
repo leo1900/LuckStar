@@ -1,2 +1,7 @@
 /Library
 /Temp
+/.vs
+/obj
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/LuckStar.sln
